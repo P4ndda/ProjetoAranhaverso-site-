@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Descubra qual aranha você é</title>
+    <link rel="stylesheet" href="Estilo.css">
+</head>
+<body>
+    <header>
+        <h2>Quem você seria no aranhaverso?</h2>
+    </header>
+    <section>
+        <div>
+        <p>
+            Ano em que você nasceu: <input type="number" name="numberAno" id="numberAno">
+        </p>
+        <p>Sexo:
+            <input type="radio" name="sexualidade" id="radioMasc">
+            <label for="radioMasc">Masculino</label>
+            <input type="radio" name="sexualidade" id="radioFem">
+            <label for="radioFem">Feminino</label>
+        </p>
+        <p>
+            <input type="button" value="Verificar" onclick = 'verificar()'>
+        </p>
+        </div>
+        <div>
+        <p id= 'resultado' ></p>
+        <p id="foto"><img  id= 'fotoAranha'> </p>
+        
+        </div>
+    </section>
+    <footer>
+        @Pedroo_agts
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
