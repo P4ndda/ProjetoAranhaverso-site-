@@ -12,7 +12,7 @@
 
 # Criação
 <p align="center">
-Olá para você que chegou até aqui, queria mostrar o porque da criação desse projeto e lhe dizer alguns pontos interressantes que fui aprendendo ao longo dessa codificação, Booom... a principio esse é mais um exercicio que foi me dado em videos do youtube. AoTendo isso em mente tive a ideia de "Modernizar" e atualizar o projeto que tinha o intuito de através do preenchimento de determinados campos designados ao usuario, o site revelaria a idade e foto de pessoas com aparencia semelhante a idade que foi inserida pelo usuario...
+Olá para você que chegou até aqui, queria mostrar o porque da criação desse projeto e lhe dizer alguns pontos interressantes que fui aprendendo ao longo dessa codificação. Bom... a principio esse é mais um exercicio que foi me dado em videos do youtube. Tendo isso em mente tive a ideia de "Modernizar" e atualizar o projeto que tinha o intuito de através do preenchimento de determinados campos designados ao usuario, o site revelaria a idade e foto de pessoas com aparencia semelhante a idade que foi inserida pelo usuario...
 </p>
 
 # Sobre
